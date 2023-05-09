@@ -56,7 +56,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liuzl/dl"
+	"github.com/lycui7/dl"
 	"github.com/mediocregopher/radix.v2/pool"
 	"github.com/mediocregopher/radix.v2/redis"
 )
